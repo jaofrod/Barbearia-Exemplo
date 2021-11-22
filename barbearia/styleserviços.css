@@ -1,0 +1,110 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: #F5DEB3;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 1080px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 20px;
+}
+
+nav li {
+	display: inline;
+	margin:  0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #8B4513;
+	font-weight: bolder;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #F0AAC4
+}
+
+.servicos {
+	margin: 0 auto;
+	padding: 50px 50px 0px;
+}
+
+.servicos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	box-sizing: border-box;
+	border: 5px solid #F5DEB3;
+	border-radius: 10px;
+	}
+
+.servicos li:active {
+	color: #8B4513
+}
+
+.servicos li:hover h2 {
+	font-size: 40px;
+}
+
+.servicos h2 {
+font-size: 30px;
+font-weight: bold;
+margin: 20px;
+}
+
+.servicosprecos {
+	font-size: 22px;
+	font-weight: bold;
+	padding: 25px;
+}
+
+.servicosdesc {
+	font-size: 20px;
+}
+
+div a {
+	text-decoration: none;
+}
+
+#cabelo {
+	width: 30%;
+	padding: 25px;
+}
+
+#coloracao {
+	width: 30%;
+	padding: 25px;
+}
+
+#barba {
+	width: 30%;
+	padding: 25px;
+}
+
+footer {
+	text-align: center;
+	background: #F5DEB3;
+	padding: 50px;
+	margin-top: 70px;
+}
+
+.logorodape {
+	width: 100px;
+	vertical-align: bottom;
+}
+
+
