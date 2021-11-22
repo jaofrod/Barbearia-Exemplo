@@ -1,0 +1,174 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/* css do header */
+
+.caixa {
+	background: #F5DEB3;
+	padding: 20px 0;
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+}
+
+/* css do navegador */
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 20px;
+}
+
+nav li {
+	display: inline;
+	margin:  0 10px 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #8B4513;
+	font-weight: bolder;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #F0AAC4
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+	padding: 10px;
+}
+
+
+/* css da missão */
+
+.banner {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.utensilios {
+	width: 160px;
+	float: right;
+}
+
+.principal {
+	background: #F5DEB3;
+	padding: 20px;
+	position: relative;
+}
+
+em strong {
+	color: #8B4513;
+}
+
+.principal h2 {
+	font-size: 50px;
+	text-align: center;
+	color: #8B4513;
+}
+
+#missao {
+	 font-size: 30px
+}
+
+/* css do mapa*/
+
+.mapa h3 {
+	font-size: 3em;
+	margin: 0 0 0;
+	text-align: center;
+	color:  #F5DEB3;
+	padding:  20px;
+}
+
+.mapa {
+	background: #8B5213;
+	padding: 3em 0;
+}
+
+.mapa p {
+	color: #F5DEB3;
+	margin: 0 0 2em;
+	text-align: center;
+}
+.mapa iframe {
+	position: relative;
+}
+
+/* css dos benefícios */
+
+.titulocentralizado {
+	font-size: 3em;
+	margin: 0 0 1.5em;
+	text-align: center;
+	color:  #F5DEB3;
+	padding:  20px;
+}
+
+.beneficios {
+	background: #8B4513;
+	padding: 20px;
+
+}
+
+.imagembeneficios {
+	width:  60%;
+	display: block;
+
+}
+
+.beneficios ul {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 15%;
+	color: #F5DEB3;
+	padding: 20px;
+	text-align: center;
+}
+
+.beneficios li {
+	margin:  0 0 0 15px;
+}
+
+.beneficios iframe {
+	margin: 20px auto;
+}
+
+/* css do footer */
+
+footer li {
+	margin:  0 0 0 15px;
+}
+
+footer ul {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 15%;
+	color: #F5DEB3;
+	padding: 20px;
+}
+
+.itens {
+	font-style: italic;
+	font-size: 30px;
+
+}
+
+
+.footer {
+	text-align: center;
+	background: #F5DEB3;
+	padding: 50px;
+}
+
+.logorodape {
+	width: 100px;
+	vertical-align: bottom;
+}
+
