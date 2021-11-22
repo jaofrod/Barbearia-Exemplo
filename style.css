@@ -118,15 +118,16 @@ em strong {
 }
 
 .imagembeneficios {
-	width:  60%;
+	margin: 20px auto;
+	width:  30%;
 	display: block;
 
 }
 
 .beneficios ul {
-	display: inline-block;
+	display: inline;
 	vertical-align: middle;
-	margin-right: 15%;
+	margin: 20px auto;
 	color: #F5DEB3;
 	padding: 20px;
 	text-align: center;
@@ -138,6 +139,7 @@ em strong {
 
 .beneficios iframe {
 	margin: 20px auto;
+	display: block;
 }
 
 /* css do footer */
@@ -159,7 +161,6 @@ footer ul {
 	font-size: 30px;
 
 }
-
 
 .footer {
 	text-align: center;

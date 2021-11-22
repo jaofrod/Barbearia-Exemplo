@@ -1,33 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 	<head>
+		
 		<meta charset="UTF-8">
 		<title>Contato - Barbearia</title>
-		
 		<link rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="stylecontato.css">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+			
 	</head>
+	
 	<body>
+		
 		<header>
-			<div class="caixa">
-				<h1>
-					<img src="logo.png" alt="logo da barbearia fictícia">
-				</h1>
 				
-				<nav>
-					<ul>
-						<li><a href="Barbearia.html">Home</a></li>
-						<li><a href="produtos.html">Serviços</a></li>
-						<li><a href="https://wa.me/554699080406">Contato</a></li>
-						</li>
-					</ul>
-				</nav>
-			</div>	
-		</header>
+				<div class="caixa">
+					<h1>
+						<img src="img/logo.png">
+					</h1>
+					<nav>
+						<ul>
+							<li><a href="Barbearia.html">Home</a></li>
+							<li><a href="produtos.html">Serviços</a></li>
+							<li><a href="contato.html">Contato</a></li>
+						</ul>
+					</nav>
+				</div>
+
+		</header>	
 
 		<main>
+			
 			<form class="inputpadrao">
 				<label for="nomesobrenome">Nome e sobrenome: </label>
 				<input type="text" id="nomesobrenome" required>
@@ -52,24 +56,29 @@
 				</fildset>
 
 				<fieldset>
-				<legend>Qual horário prefere ser atendido?</legend>
-				<select>
-					<option>Manhã</option>
-					<option>Tarde</option>
-					<option>Noite</option>
-				</select>
-					<label class="checkbox"><input type="checkbox" value="Enviar Formulário">Gostaria de receber as novidades?</label>
-				</fieldset>
-				<input type="submit" value="Enviar Formulário" class="submit">
-			</form>
+				
+					<legend>Qual horário prefere ser atendido?</legend>
+				
+						<select>
+							<option>Manhã</option>
+							<option>Tarde</option>
+							<option>Noite</option>
+						</select>
+						<label class="checkbox"><input type="checkbox" value="Enviar Formulário">Gostaria de receber as novidades?</label>
 
-			<table>
-				<thead>
-					<tr>
-						<th>Dia</th>
-						<th>Horário</th>
-					</tr>
-				</thead>	
+				</fieldset>
+				
+				<input type="submit" value="Enviar Formulário" class="submit">
+				</form>
+
+				<table>
+					<thead>
+						<tr>
+							<th>Dia</th>
+							<th>Horário</th>
+						</tr>
+					</thead>	
+				
 				<tbody>
 					<tr>
 						<td>Segunda</td>
