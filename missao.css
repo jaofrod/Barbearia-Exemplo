@@ -1,0 +1,34 @@
+.banner {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.utensilios {
+	width: 160px;
+	float: right;
+}
+
+.principal {
+	background: #F5DEB3;
+	padding: 20px;
+	position: relative;
+}
+
+em strong {
+	color: #8B4513;
+}
+
+.principal h2 {
+	font-size: 50px;
+	text-align: center;
+	color: #8B4513;
+}
+
+#missao {
+	 font-size: 30px
+}
+
+h2 p {
+	background: #F5DEB3;
+}

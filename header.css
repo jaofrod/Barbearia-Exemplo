@@ -1,0 +1,37 @@
+.caixa {
+	background: #F5DEB3;
+	padding: 20px 0;
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 20px;
+}
+
+nav li {
+	display: inline;
+	margin:  0 10px 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #8B4513;
+	font-weight: bolder;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #F0AAC4
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+	padding: 10px;
+}
+

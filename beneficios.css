@@ -1,0 +1,37 @@
+.titulocentralizado {
+	font-size: 3em;
+	margin: 0 0 1.5em;
+	text-align: center;
+	color:  #F5DEB3;
+	padding:  20px;
+}
+
+.beneficios {
+	background: #8B4513;
+	width: 100%;
+}
+
+.imagembeneficios {
+	margin: 20px auto;
+	width:  30%;
+	display: block;
+
+}
+
+.beneficios ul {
+	display: inline;
+	vertical-align: middle;
+	margin: 20px auto;
+	color: #F5DEB3;
+	padding: 20px;
+	text-align: center;
+}
+
+.beneficios li {
+	margin:  0 0 0 15px;
+}
+
+.beneficios iframe {
+	margin: 20px auto;
+	display: block;
+}
