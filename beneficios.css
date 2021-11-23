@@ -9,6 +9,7 @@ body {
 	color:  #F5DEB3;
 	padding:  20px;
 	font-weight: bold;
+	text-shadow: 5px 5px #A0522D;
 }
 
 .beneficios {
@@ -20,7 +21,7 @@ body {
 	margin: 21px auto;
 	width:  50%;
 	display: block;
-
+	box-shadow: 10px 10px 5px #8B4513;
 }
 
 .beneficios ul {
