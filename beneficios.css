@@ -1,30 +1,32 @@
+
 .titulocentralizado {
-	font-size: 3em;
-	margin: 0 0 1.5em;
+	font-size: 5em;
+	margin: 0 0 1em;
 	text-align: center;
 	color:  #F5DEB3;
 	padding:  20px;
+	font-weight: bold;
 }
 
 .beneficios {
-	background: #8B4513;
 	width: 100%;
+	background: linear-gradient(#A0522D,#F5DEB3);
 }
 
 .imagembeneficios {
-	margin: 20px auto;
-	width:  30%;
+	margin: 21px auto;
+	width:  50%;
 	display: block;
 
 }
 
 .beneficios ul {
 	display: inline;
-	vertical-align: middle;
+	text-align: center;
 	margin: 20px auto;
 	color: #F5DEB3;
 	padding: 20px;
-	text-align: center;
+	font-size: 30px;
 }
 
 .beneficios li {

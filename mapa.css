@@ -1,21 +1,23 @@
 .mapa h3 {
-	font-size: 3em;
+	font-size: 5em;
 	margin: 0 0 0;
 	text-align: center;
-	color:  #F5DEB3;
+	color:  #8B4513;
 	padding:  20px;
+	font-weight: bold
 }
 
 .mapa {
-	background: #8B5213;
 	padding: 3em 0;
+	background: linear-gradient(#F5DEB3,#A0522D);
 }
 
 .mapa p {
-	color: #F5DEB3;
+	color: #8B4513;
 	margin: 0 0 2em;
 	text-align: center;
 }
 .mapa iframe {
 	position: relative;
+	margin: 0 auto;
 }

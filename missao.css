@@ -1,17 +1,16 @@
 .banner {
 	width: 100%;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.utensilios {
-	width: 160px;
-	float: right;
+	margin: 0;
 }
 
 .principal {
-	background: #F5DEB3;
-	padding: 20px;
+	background: linear-gradient(#DEB887,#F5DEB3);
+	padding: 3m;
+	width: 100%;
+}
+
+.utensilios {
+	width: 20%;
 	position: relative;
 }
 
@@ -20,7 +19,7 @@ em strong {
 }
 
 .principal h2 {
-	font-size: 50px;
+	font-size: 5em;
 	text-align: center;
 	color: #8B4513;
 }
@@ -29,6 +28,3 @@ em strong {
 	 font-size: 30px
 }
 
-h2 p {
-	background: #F5DEB3;
-}

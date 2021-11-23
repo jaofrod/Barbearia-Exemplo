@@ -1,11 +1,10 @@
 footer {
 	text-align: center;
 	background: #F5DEB3;
-	padding: 50px;
-	margin-top: 70px;	
 }
 
 .logorodape {
 	width: 100px;
 	vertical-align: bottom;
+	padding: 50px;
 }
